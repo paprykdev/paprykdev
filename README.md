@@ -1,6 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=paprykdev&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=22272e">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=paprykdev&layout=compact&hide_border=true&theme=darcula&bg_color=22272e&langs_count=5&hide=dockerfile">
+  <br>
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=paprykdev&theme=darcula&hide_border=true&background=22272e">
+</p>
+<!--### Hi there 👋
 
-<!--
+
 **paprykdev/paprykdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
