@@ -1,4 +1,4 @@
-<p style="text-align: center;">
+<p align="center">
   <img style="height: 50%; width: auto" src="https://github-readme-stats.vercel.app/api?username=paprykdev&show_icons=true&count_private=true&theme=darcula&hide_border=true&bg_color=22272e">
   <img style="height: 50%; width: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paprykdev&layout=compact&hide_border=true&theme=darcula&bg_color=22272e&langs_count=5&hide=dockerfile">
   <br>
