@@ -4,6 +4,10 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=paprykdev&theme=darcula&hide_border=true&background=22272e">
 </p>
+
+<p align="center">
+🔭 I’m currently working on <a href="https://github.com/paprykdev/sudoku">sudoku</a>
+</p>
 <!--### Hi there 👋
 
 
