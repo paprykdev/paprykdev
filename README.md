@@ -48,23 +48,8 @@ I don’t know what to write here yet... but there will be something.. soon. I p
 
 ### 🔭 Current projects
 
-🎄 I'm having fun with <a href="https://github.com/paprykdev/adventofcode2024">Advent of code</a> in Go 🎄
+🎄 I'm having fun with <a href="https://github.com/paprykdev/adventofcode2024">advent of code 2024</a> in Go 🎄<br>
+🍨 I'm creating an <a href="https://github.com/paprykdev/interpreter">interpreter</a> in Go with a book (check README.md) 👾
+
 
 #
-
-<!--### Hi there 👋
-
-
-**paprykdev/paprykdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
