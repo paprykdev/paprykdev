@@ -4,7 +4,7 @@
 
 There should be something about me...<br>
 I'm a student at Adam Mickiewicz University in Poznań, studying Computer Science.<br>
-I don’t know what to write here yet... but there will be something.. soon. I promise!
+I don’t know what to write here yet... but there will be something.. soon.
 
 ---
 ### 🧰 Well known Languages and Tools
