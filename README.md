@@ -4,6 +4,7 @@
 
 There should be something about me...<br>
 I'm a student at Adam Mickiewicz University in Poznań, studying Computer Science.<br>
+
 ---
 ### 🧰 Well known Languages and Tools
 
